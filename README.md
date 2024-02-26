@@ -1,6 +1,6 @@
 Download the file and extract.
 
-cd to the SUSHI_WEBSITE-main folder
+change directory to SUSHI_WEBSITE-main folder
 
 npm i
 
